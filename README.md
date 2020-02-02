@@ -56,7 +56,5 @@ Slack 초대링크: https://dooboolab.com/joinRNSeoul
 
 - [dooboolab](https://www.linkedin.com/company/dooboolab)
   * 향후 해외 개발자 분들과 소통 창구를 가질 것을 기대해 feed를 올려보고 있습니다.
-- [React Native Seoul](https://www.linkedin.com/company/react-native-seoul)
-  * 국내 본딩되는 분들을 멤버로 모셔보려고 하고 있습니다.
 
 
