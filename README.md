@@ -1,4 +1,9 @@
-# React Native Seoul 커뮤니티 자료
+#3 공지사항
+리액트네이티브서울이 2023년부터 크로스플랫폼 코리아로 개편되었습니다.
+공식 홈페이지는 [https://crossplatformkorea.com](https://crossplatformkorea.com), 공식레포는 [github.com/crossplatformkorea](https://github.com/crossplatformkorea) 입니다.
+
+
+# React Native Seoul 커뮤니티 자료 (2023 이전 글)
 ![31645570 (1)](https://user-images.githubusercontent.com/27461460/72684464-f9427e00-3b23-11ea-9430-64a14527c560.png)
 
 Slack 초대링크: https://dooboolab.com/joinRNSeoul
